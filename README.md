@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Instalación
 - Clonar el repositorio
-- git clone 
+- git clone https://github.com/ErikVTrujillo/angular-review-EGVT.git
 ## Instalar los módulos
 - Mediante npm instalar los módulos.
 - npm install
